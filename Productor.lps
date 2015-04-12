@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="Productor.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Productor"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="5" Y="20"/>
+        <UsageCount Value="121"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uMain"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="601"/>
+        <CursorPos X="2" Y="639"/>
+        <UsageCount Value="121"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="udm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="uDM"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="4"/>
+        <CursorPos X="1" Y="151"/>
+        <UsageCount Value="121"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/share/lazarus/1.2.6/lcl/lclproc.pas"/>
+        <UnitName Value="LCLProc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="847"/>
+        <CursorPos X="1" Y="861"/>
+        <UsageCount Value="3"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/share/lazarus/1.2.6/components/lazutils/lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="156"/>
+        <CursorPos X="1" Y="170"/>
+        <UsageCount Value="3"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../x/components/zeos/src/dbc/ZDbcGenericResolver.pas"/>
+        <UnitName Value="ZDbcGenericResolver"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="288"/>
+        <CursorPos X="1" Y="302"/>
+        <UsageCount Value="5"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../x/components/zeos/src/dbc/ZDbcPostgreSqlUtils.pas"/>
+        <UnitName Value="ZDbcPostgreSqlUtils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="706"/>
+        <CursorPos X="1" Y="719"/>
+        <UsageCount Value="5"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../x/components/zeos/src/component/ZAbstractRODataset.pas"/>
+        <UnitName Value="ZAbstractRODataset"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1801"/>
+        <CursorPos X="1" Y="1782"/>
+        <UsageCount Value="4"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../x/components/zeos/src/dbc/ZDbcUtils.pas"/>
+        <UnitName Value="ZDbcUtils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="325"/>
+        <CursorPos X="1" Y="339"/>
+        <UsageCount Value="4"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../x/components/zeos/src/component/ZAbstractDataset.pas"/>
+        <UnitName Value="ZAbstractDataset"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="418"/>
+        <CursorPos X="1" Y="431"/>
+        <UsageCount Value="4"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="udm.pas"/>
+        <Caret Line="127" Column="23" TopLine="114"/>
+      </Position1>
+      <Position2>
+        <Filename Value="udm.pas"/>
+        <Caret Line="129" Column="23" TopLine="116"/>
+      </Position2>
+      <Position3>
+        <Filename Value="umain.pas"/>
+        <Caret Line="614" Column="125" TopLine="610"/>
+      </Position3>
+      <Position4>
+        <Filename Value="umain.pas"/>
+        <Caret Line="615" Column="125" TopLine="611"/>
+      </Position4>
+      <Position5>
+        <Filename Value="umain.pas"/>
+        <Caret Line="643" Column="133" TopLine="612"/>
+      </Position5>
+      <Position6>
+        <Filename Value="umain.pas"/>
+        <Caret Line="645" Column="133" TopLine="614"/>
+      </Position6>
+      <Position7>
+        <Filename Value="umain.pas"/>
+        <Caret Line="644" Column="133" TopLine="613"/>
+      </Position7>
+      <Position8>
+        <Filename Value="umain.pas"/>
+        <Caret Line="643" Column="133" TopLine="612"/>
+      </Position8>
+      <Position9>
+        <Filename Value="umain.pas"/>
+        <Caret Line="646" Column="133" TopLine="615"/>
+      </Position9>
+      <Position10>
+        <Filename Value="umain.pas"/>
+        <Caret Line="649" Column="133" TopLine="618"/>
+      </Position10>
+      <Position11>
+        <Filename Value="umain.pas"/>
+        <Caret Line="835" Column="44" TopLine="815"/>
+      </Position11>
+      <Position12>
+        <Filename Value="umain.pas"/>
+        <Caret Line="710" Column="13" TopLine="578"/>
+      </Position12>
+      <Position13>
+        <Filename Value="umain.pas"/>
+        <Caret Line="240" Column="34" TopLine="210"/>
+      </Position13>
+      <Position14>
+        <Filename Value="umain.pas"/>
+        <Caret Line="241" Column="34" TopLine="211"/>
+      </Position14>
+      <Position15>
+        <Filename Value="umain.pas"/>
+        <Caret Line="242" Column="34" TopLine="212"/>
+      </Position15>
+      <Position16>
+        <Filename Value="umain.pas"/>
+        <Caret Line="243" Column="34" TopLine="213"/>
+      </Position16>
+      <Position17>
+        <Filename Value="umain.pas"/>
+        <Caret Line="245" Column="34" TopLine="215"/>
+      </Position17>
+      <Position18>
+        <Filename Value="umain.pas"/>
+        <Caret Line="645" Column="3" TopLine="642"/>
+      </Position18>
+      <Position19>
+        <Filename Value="umain.pas"/>
+        <Caret Line="644" Column="2" TopLine="625"/>
+      </Position19>
+      <Position20>
+        <Filename Value="umain.pas"/>
+        <Caret Line="643" Column="2" TopLine="624"/>
+      </Position20>
+      <Position21>
+        <Filename Value="umain.pas"/>
+        <Caret Line="642" Column="2" TopLine="623"/>
+      </Position21>
+      <Position22>
+        <Filename Value="umain.pas"/>
+        <Caret Line="641" Column="2" TopLine="622"/>
+      </Position22>
+      <Position23>
+        <Filename Value="umain.pas"/>
+        <Caret Line="640" Column="2" TopLine="621"/>
+      </Position23>
+      <Position24>
+        <Filename Value="umain.pas"/>
+        <Caret Line="639" Column="2" TopLine="620"/>
+      </Position24>
+      <Position25>
+        <Filename Value="umain.pas"/>
+        <Caret Line="638" Column="2" TopLine="619"/>
+      </Position25>
+      <Position26>
+        <Filename Value="umain.pas"/>
+        <Caret Line="637" Column="2" TopLine="618"/>
+      </Position26>
+      <Position27>
+        <Filename Value="udm.pas"/>
+        <Caret Line="129" Column="23" TopLine="116"/>
+      </Position27>
+      <Position28>
+        <Filename Value="umain.pas"/>
+        <Caret Line="637" Column="2" TopLine="618"/>
+      </Position28>
+      <Position29>
+        <Filename Value="umain.pas"/>
+        <Caret Line="638" Column="2" TopLine="619"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
